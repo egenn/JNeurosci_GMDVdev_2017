@@ -1,5 +1,5 @@
 # =========================================================
-#   Atropos 3-class iterative segmentation without priors
+#   Atropos 3-Class Iterative Segmentation Without Priors
 # =========================================================
 # For more information see: https://doi.org/10.1523/JNEUROSCI.3550-16.2017
 # If you find this code useful, please cite the above publication.
