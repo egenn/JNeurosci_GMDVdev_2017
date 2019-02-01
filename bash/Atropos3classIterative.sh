@@ -1,9 +1,10 @@
 # =========================================================
-#   Atropos 3-class iterative segmentation without priors
+#   Atropos 3-Class Iterative Segmentation Without Priors
 # =========================================================
 # For more information see: https://doi.org/10.1523/JNEUROSCI.3550-16.2017
-# If you find this code useful, please cite the above
+# If you find this code useful, please cite the above publication.
 # This code requires an installtion of ANTs.
+# This is not an executable file; you can merge this code into your pipeline.
 # For information on ANTs and to download: https://github.com/stnava/ANTs
 # Author: Efstathios D. Gennatas https://egenn.github.io
 
