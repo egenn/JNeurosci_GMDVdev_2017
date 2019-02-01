@@ -34,3 +34,5 @@ for i in `seq 1 3`; do
             -x $brainMask -m [ 0,1x1x1] -o [ ${name}_seg.nii.gz,${name}_prob%02d.nii.gz]
   fi
 done
+
+# Don't expect big changes from one iteration to the next
