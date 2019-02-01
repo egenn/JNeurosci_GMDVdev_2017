@@ -5,6 +5,9 @@
 # If you find this code useful, please cite the above publication.
 # This code requires an installtion of ANTs.
 # This is not an executable file; you can merge this code into your pipeline.
+# This is based on a past version of ANTS, available at the time of the original data analysis
+# for the paper. Minor adjustments will need to be made to account for the changed output names
+# current versions of ANTs.
 # For information on ANTs and to download: https://github.com/stnava/ANTs
 # Author: Efstathios D. Gennatas https://egenn.github.io
 
